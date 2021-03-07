@@ -3,7 +3,6 @@
 #include "Cliente.hpp"
 
 void Cliente::print(){
-/*Só preciso fazer um teste*/
 	std::cout << "  Nome: " << NOME << endl
 		 << "  Endereço: " << endereco << endl
 		 << "  Cidade: " << CIDADE << endl
